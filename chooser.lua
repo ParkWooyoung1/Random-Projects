@@ -18,8 +18,7 @@ sleep(1)
 print("thinking...")
 print( decisions[ math.random(5)])
 
-
-
+-- i love making stuff slower on purpose :D
 
 
 
